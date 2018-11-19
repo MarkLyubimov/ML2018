@@ -95,6 +95,18 @@ __7. Решающие деревья__
 * [Конспект лекции](https://github.com/esokolov/ml-course-hse/blob/master/2017-fall/lecture-notes/lecture07-trees.pdf)
 * [Конспект с задачами на критерии информативности](https://github.com/esokolov/ml-course-hse/blob/master/2017-fall/seminars/sem07-trees.ipynb)
 
+__8. Метрические методы__
+* [Конспект лекции](https://github.com/esokolov/ml-course-hse/blob/master/2017-fall/seminars/sem06-knn.pdf)
+* [Более подробно про Locality Sensitive Hashing](https://github.com/esokolov/ml-course-msu/blob/master/ML16/lecture-notes/Sem03_knn.pdf)
+* [Презентация с описание метода отбора объектов STOLP (слайды 15-19)](http://www.machinelearning.ru/wiki/images/archive/c/c3/20150216123138%21Voron-ML-Metric-slides.pdf)
+* [Презентация про применение 1NN в базах данных](http://www.machinelearning.ru/wiki/images/9/95/BMMO_16_Ivanov_DBMS.pdf)
+
+__9. Композиции__
+* [Конспект про бэггинг и случайный лес](https://github.com/esokolov/ml-course-hse/blob/master/2018-fall/lecture-notes/lecture08-ensembles.pdf) (пропустите часть про bias-variance decomposition)
+* [Конспект про градиентный бустинг](https://github.com/esokolov/ml-course-hse/blob/master/2018-fall/lecture-notes/lecture09-ensembles.pdf)
+* [Конспект с задачами на градиентный бустинг](https://github.com/esokolov/ml-course-hse/blob/master/2018-fall/seminars/sem09-gbm-part1.pdf)
+* [Ноутбук с демонстрациями](https://github.com/esokolov/ml-course-hse/blob/master/2018-fall/seminars/sem09-gbm-part2.ipynb)
+
 ### Задания
 * [Домашнее задание 1: python](https://github.com/ftad/ML2018/blob/master/materials/lesson1/homework1.ipynb). Дедлайн: мягкий 02:00 15.09.18, жесткий 23:59 16.09.18
 * [Домашнее задание 2: numpy, pandas](https://github.com/ftad/ML2018/blob/master/materials/lesson/homework2.ipynb) Деллайн: мягкий 02:00 22.09.18, жесткий 23:59 23.09.18
@@ -103,6 +115,7 @@ __7. Решающие деревья__
 * [Домашнее задание 5: вероятностный подход](https://github.com/ftad/ML2018/blob/master/materials/lesson5/homework5.pdf) Деллайн: 12:10 13.10.12 (сдавать на листочке на занятии 13 октября)
 * [Домашнее задание 6 (опциональное)](https://github.com/ftad/ML2018/blob/master/materials/lesson6/homework6_opt.ipynb) Дедлайн: мягкий 02:00 20.10.18, жесткий 23:59 21.10.18. Все баллы добавляются как бонусные к баллам за домашнюю работу.
 * [Домашнее задание 7: решающие деревья](https://github.com/ftad/ML2018/blob/master/materials/lesson7/homework7.ipynb) Дедлайн: мягкий 23:59 04.11.2018, жесткий 09.11.2018 (-1 балл/день). 
+* [Домашнее задание 8: классификация цифр и смс-сообщений](https://github.com/ftad/ML2018/blob/master/materials/lesson8/homework8.ipynb) Дедлайн: мягкий 23:59 20.11.2018, жесткий: 23:59 22.11.2018
 
 ### Полезные материалы
 Книги:
